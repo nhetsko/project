@@ -138,7 +138,7 @@ screen and (min-resolution: 2dppx) and (min-width:375px),
 screen and (min-device-pixel-ratio: 2) and (min-width:375px) {
     .footer {
         background-image: url(./img/footer-mobile@2.png);
-        background-size:375px ;
+        background-size:375px;
     }
 }
 
